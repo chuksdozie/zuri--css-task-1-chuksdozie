@@ -363,13 +363,13 @@ div.footer h6 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 1rem 3rem;
+    padding: 1rem 1rem;
     max-width: 100vw;
     background: #304353;
   }
 
   div.logo {
-    font-size: 2.5rem;
+    font-size: 1rem;
     color: yellowgreen;
     padding-bottom: 1rem;
     align-self: flex-start;
@@ -508,6 +508,7 @@ div.footer h6 {
   div.footer-btn a {
     text-align: center;
     width: 100%;
+    padding: 15px;
   }
 
   div.footer h6 {
@@ -529,13 +530,13 @@ div.footer h6 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 1rem 3rem;
+    padding: 1rem 1rem;
     max-width: 100vw;
     background: #304353;
   }
 
   div.logo {
-    font-size: 2.5rem;
+    font-size: 1.3rem;
     color: whitesmoke;
     padding-bottom: 1rem;
     align-self: flex-start;
